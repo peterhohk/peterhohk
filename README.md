@@ -1,7 +1,8 @@
 # 🥬 Welcome to Peter's Profile 🥬
-- Web designer and front-end developer since 2023
-- Self-taught
-- Is a cabbage (this is a lie)
+Peter is...
+- a web designer and front-end developer since 2023
+- self-taught
+- a cabbage (this is a lie)
 
 ## Peter's coding experience
 | Level | Items |
