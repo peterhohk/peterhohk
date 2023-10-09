@@ -4,7 +4,7 @@ Peter is...
 - self-taught
 - a cabbage (this is a lie)
 
-## Peter's coding experience
+## Peter's code proficiencies
 | Level | Items |
 | :-- | :-- |
 | Has written something with it | HTML / CSS / JavaScript / TypeScript / jQuery / Vue (Options API) |
