@@ -1,6 +1,7 @@
 # 🥬 Welcome to Peter's Profile 🥬
 Peter is...
-- a web designer and front-end developer since 2023
+- a front-end developer since 2023
+- a web designer as a hobby
 - self-taught
 - a cabbage (this is a lie)
 
