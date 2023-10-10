@@ -1,5 +1,6 @@
 # 🥬 Welcome to Peter's Profile 🥬
-Peter is...
+
+## Peter is...
 - a front-end developer since 2023
 - a hobbyist web designer
 - self-taught
