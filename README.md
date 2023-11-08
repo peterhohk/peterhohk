@@ -9,6 +9,7 @@
 ## Peter's code proficiencies
 | Level | Items |
 | :-- | :-- |
-| Has written something with it | HTML / CSS / JavaScript / TypeScript / jQuery / Vue (Options API) |
-| Has skimmed the docs | Bootstrap / Vue (Composition API) |
-| Is interested in learning | Three.js / React / Angular / Ionic / Python |
+| Has used for personal projects | HTML / CSS / JavaScript / TypeScript / jQuery / Vue (Options API) |
+| Has used for work projects | HTML / CSS / JavaScript / Bootstrap |
+| Has skimmed the docs | Vue (Composition API) |
+| Is interested in learning | Three.js / React / Angular / Flutter / Python |
