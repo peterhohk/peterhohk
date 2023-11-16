@@ -7,9 +7,9 @@
 - a cabbage (this is a lie)
 
 ## Peter's code proficiencies
-| Level | Items |
-| :-- | :-- |
-| Has used for personal projects | HTML / CSS / JavaScript / TypeScript / jQuery / Vue (Options API) |
-| Has used for work projects | HTML / CSS / JavaScript / Bootstrap |
-| Has skimmed the docs | Vue (Composition API) |
-| Is interested in learning | GSAP / React / Angular / Flutter / Python |
+| Level | Languages | Libraries |
+| :-- | :-- | :-- |
+| Has used for personal projects | HTML / CSS / JavaScript / TypeScript | jQuery / Vue (Options API) |
+| Has used for work projects | HTML / CSS / JavaScript | Bootstrap |
+| Has skimmed the docs | - | Vue (Composition API) |
+| Is interested in learning | Python | GSAP / Three.js / React / Angular |
