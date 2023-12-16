@@ -2,7 +2,6 @@
 
 ## Peter is...
 - a front-end developer since 2023
-- a hobbyist web designer
 - self-taught
 - a cabbage (this is a lie)
 
