@@ -11,4 +11,4 @@
 | Has used for personal projects | HTML / CSS / JavaScript / TypeScript | jQuery / Vue (Options API) |
 | Has used for work projects | HTML / CSS / JavaScript / PHP | Bootstrap |
 | Has skimmed the docs | - | Vue (Composition API) |
-| Is interested in learning | Python | GSAP / Three.js / React / Angular |
+| Is interested in learning | Python | React / Angular |
