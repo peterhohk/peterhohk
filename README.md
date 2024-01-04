@@ -9,6 +9,6 @@
 | Level | Languages | Libraries |
 | :-- | :-- | :-- |
 | Has used for personal projects | HTML / CSS / JavaScript / TypeScript | jQuery / Vue (Options API) |
-| Has used for work projects | HTML / CSS / JavaScript / PHP | Bootstrap |
+| Has used for work projects | HTML / CSS / JavaScript / PHP | Bootstrap / CodeIgniter |
 | Has skimmed the docs | - | Vue (Composition API) |
 | Is interested in learning | Python | React / Angular |
