@@ -6,7 +6,7 @@
 - a cabbage (this is a lie)
 
 ## Peter's code proficiencies
-| Level | Languages | Libraries |
+| Level | Languages | Major Libraries & Frameworks |
 | :-- | :-- | :-- |
 | Has used for personal projects | HTML / CSS / JavaScript / TypeScript | jQuery / Vue (Options API) |
 | Has used for work projects | HTML / CSS / JavaScript / PHP | Bootstrap / CodeIgniter |
