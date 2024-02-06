@@ -2,6 +2,7 @@
 
 ## Peter is...
 - a front-end developer since 2023
+- slowly turning into a full-stack developer (against his will?)
 - self-taught
 - a cabbage (this is a lie)
 
