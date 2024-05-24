@@ -15,5 +15,6 @@
 | Is interested in learning | Python | Angular |
 
 ## Peter wants...
+- CSS: [Grid Level 3 (Masonry Layout)](https://drafts.csswg.org/css-grid-3/)
 - JS: [Temporal API](https://github.com/tc39/proposal-temporal)
 - JS: [Pipe Operator (`|>`)](https://github.com/tc39/proposal-pipeline-operator)
