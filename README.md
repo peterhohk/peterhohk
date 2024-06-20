@@ -11,8 +11,8 @@
 | :-- | :-- | :-- |
 | Has used for personal projects | HTML / CSS / JavaScript / TypeScript | jQuery / Vue (Options API) |
 | Has used for work projects | HTML / CSS / JavaScript / PHP | Bootstrap / jQuery / CodeIgniter |
-| Has skimmed the docs | - | Vue (Composition API) |
-| Is interested in learning | Python | Angular |
+| Has skimmed the docs | Python | Vue (Composition API) |
+| Is interested in learning | - | Angular |
 
 ## Peter wants...
 - CSS: [Grid Level 3 (Masonry Layout)](https://drafts.csswg.org/css-grid-3/)
