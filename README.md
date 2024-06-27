@@ -10,7 +10,7 @@
 | Level | Languages | Major Libraries & Frameworks |
 | :-- | :-- | :-- |
 | Has used for personal projects | HTML / CSS / JavaScript / TypeScript | **JS/TS:** jQuery / Vue (Options API) |
-| Has used for work projects | HTML / CSS / JavaScript / PHP | **JS/TS:** Bootstrap / jQuery <br> **PHP:** CodeIgniter |
+| Has used for work projects | HTML / CSS / JavaScript / PHP | **HTML/CSS:** Bootstrap <br> **JS/TS:** jQuery <br> **PHP:** CodeIgniter |
 | Has skimmed the docs | Python | **JS/TS:** Vue (Composition API) |
 | Is interested in learning | - | - |
 
