@@ -9,9 +9,9 @@
 ## Peter knows...
 | Level | Languages | Major Libraries & Frameworks |
 | :-- | :-- | :-- |
-| Has used for work projects | HTML / CSS / JavaScript / PHP | <sup>HTML/CSS</sup> Bootstrap / <sup>JS/TS</sup> jQuery / <sup>PHP</sup> CodeIgniter |
-| Has used for personal projects | HTML / CSS / JavaScript / TypeScript | <sup>JS/TS</sup> jQuery / <sup>JS/TS</sup> Vue (Options API) |
-| Has skimmed the docs | Python | <sup>JS/TS</sup> Vue (Composition API) |
+| Has used for work projects | HTML / CSS / JavaScript / PHP | <sup>HTML/CSS</sup>&nbsp;Bootstrap / <sup>JS/TS</sup>&nbsp;jQuery / <sup>PHP</sup>&nbsp;CodeIgniter |
+| Has used for personal projects | HTML / CSS / JavaScript / TypeScript | <sup>JS/TS</sup>&nbsp;jQuery / <sup>JS/TS</sup>&nbsp;Vue |
+| Has skimmed the docs | Python | - |
 | Is interested in learning | - | - |
 
 ## Peter wants...
