@@ -9,10 +9,10 @@
 ## Peter knows...
 | Level | Languages | Major Libraries & Frameworks |
 | :-- | :-- | :-- |
-| Has used for work projects | HTML / CSS / JavaScript / PHP | <sup>HTML,CSS</sup>&nbsp;Bootstrap / <sup>JS,TS</sup>&nbsp;jQuery / <sup>PHP</sup>&nbsp;CodeIgniter |
+| Has used for work projects | HTML / CSS / JavaScript / PHP / Dart | <sup>HTML,CSS</sup>&nbsp;Bootstrap / <sup>JS,TS</sup>&nbsp;jQuery / <sup>PHP</sup>&nbsp;CodeIgniter / <sup>Dart</sup>&nbsp;Flutter |
 | Has used for personal projects | HTML / CSS / JavaScript / TypeScript | <sup>JS,TS</sup>&nbsp;jQuery / <sup>JS,TS</sup>&nbsp;Vue |
 | Has skimmed the docs | Python | - |
-| Is interested in learning | - | <sup>Py</sup>&nbsp;tkinter |
+| Is interested in learning | - | <sup>Python</sup>&nbsp;tkinter |
 
 ## Peter wants...
 - CSS: [Grid Level 3 (Masonry Layout)](https://drafts.csswg.org/css-grid-3/)
