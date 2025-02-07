@@ -16,6 +16,7 @@
 
 ## Peter wants...
 - CSS: [Grid Layout Module Level 3 (Masonry Layout)](https://drafts.csswg.org/css-grid-3/)
+- CSS: [Generating Random Values](https://drafts.csswg.org/css-values-5/#randomness)
 - CSS: [Tree Counting Functions (`sibling-count()` and `sibling-index()`)](https://drafts.csswg.org/css-values-5/#tree-counting)
 - JS: [Temporal API](https://github.com/tc39/proposal-temporal)
 - JS: [Import Attributes](https://github.com/tc39/proposal-import-attributes) and [JSON Modules](https://github.com/tc39/proposal-json-modules)
