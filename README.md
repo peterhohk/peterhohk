@@ -2,7 +2,6 @@
 
 ## Peter is...
 - a front-end developer since 2023
-- slowly turning into a full-stack developer
 - self-taught
 - a cabbage (who codes by rolling around on his keyboard)
 
