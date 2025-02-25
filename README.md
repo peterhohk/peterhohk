@@ -20,6 +20,8 @@
 - JS: [Temporal API](https://github.com/tc39/proposal-temporal)
 - JS: [Pipe Operator (`|>`)](https://github.com/tc39/proposal-pipeline-operator)
 - JS: [Records & Tuples](https://github.com/tc39/proposal-record-tuple)
-### Firefox-specific corner
+
+`// Firefox-specific corner`
+
 - CSS: [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/)
 - JS: [Import Attributes](https://github.com/tc39/proposal-import-attributes) and [JSON Modules](https://github.com/tc39/proposal-json-modules)
