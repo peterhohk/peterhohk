@@ -24,4 +24,3 @@
 `// Firefox-specific corner`
 
 - CSS: [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/)
-- JS: [Import Attributes](https://github.com/tc39/proposal-import-attributes) and [JSON Modules](https://github.com/tc39/proposal-json-modules)
