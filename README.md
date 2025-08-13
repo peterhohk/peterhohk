@@ -16,11 +16,11 @@
 ## Peter wants...
 - CSS: [Masonry Layout](https://drafts.csswg.org/css-grid-3/)
 - CSS: [Generating Random Values](https://drafts.csswg.org/css-values-5/#randomness)
-- CSS: [Tree Counting Functions (`sibling-count()` and `sibling-index()`)](https://drafts.csswg.org/css-values-5/#tree-counting)
 - JS: [Pipe Operator (`|>`)](https://github.com/tc39/proposal-pipeline-operator)
 
 `// Firefox-specific corner`
 
+- CSS: [Tree Counting Functions (`sibling-count()` and `sibling-index()`)](https://drafts.csswg.org/css-values-5/#tree-counting)
 - CSS: [Scroll-driven Animations](https://drafts.csswg.org/scroll-animations-1/)
 
 `// Peter-specific corner`
