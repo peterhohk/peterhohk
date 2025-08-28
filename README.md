@@ -2,7 +2,7 @@
 
 ## Peter is...
 - a self-taught front-end developer
-- a hobbyist artist
+- a hobbyist digital artist
 - a cabbage (who codes by rolling around on his keyboard)
 
 ## Peter knows...
