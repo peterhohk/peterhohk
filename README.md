@@ -1,8 +1,8 @@
 # 🥬 Welcome to Peter's Profile 🥬
 
 ## Peter is...
-- a front-end developer since 2023
-- self-taught
+- a self-taught front-end developer
+- a hobbyist artist
 - a cabbage (who codes by rolling around on his keyboard)
 
 ## Peter knows...
